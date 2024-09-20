@@ -37,7 +37,7 @@ const Contact = () => {
 
         <div className="row">
             <div className="form-group col-md-6 mb-3">
-            <button type="submit" className="btn btn-primary border-0 rounded-0" onClick="validations(this)">Submit</button>
+            <button type="submit" className="btn btn-primary border-0 rounded-0">Submit</button>
             </div>
         </div>
 
